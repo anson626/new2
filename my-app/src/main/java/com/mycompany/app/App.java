@@ -8,10 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! This is my first Test on 2021 January 9" );
+        System.out.println( "Hello World! This is my first Test on 2021 January 9 - part 2" );
 
-        System.out.println("A NullPointerException is a drag...");
-        Object myObject = null;
+        //System.out.println("A NullPointerException is a drag...");
+        //Object myObject = null;
         /**
          * Checker prevents this from compiling...
          */
@@ -24,6 +24,6 @@ public class App
          *
          * http://checkerframework.org
          */
-        System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
+        //System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
     }
 }
